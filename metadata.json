@@ -1,0 +1,7 @@
+{
+  "name": "The Glitch - Backup from 2077",
+  "description": "A cyberpunk-themed puzzle adventure game set in a digital terminal. Uncover the truth behind the corrupted 'Eden' server.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
